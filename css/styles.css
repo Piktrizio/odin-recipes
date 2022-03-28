@@ -1,0 +1,68 @@
+body{
+    background-color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main{
+    text-align: center;
+}
+
+#logo{
+    width: 100px;
+    height: auto;
+}
+
+#title{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.recipe-list{
+    font-size: 20px;
+    color: gray;
+    list-style: none; 
+}
+
+.recipe{
+    text-decoration: none;
+    color: inherit;
+}
+
+.recipe-title, .desc{
+    text-align: center;
+}
+
+.recipe-title{
+    font-size: 50px;
+}
+
+.desc{
+    font-size: 25px;
+}
+
+.recipic{
+    width: 266px;
+    height: auto;
+    border: 3px solid silver;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: justify;
+    font-size: 15px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+.list{
+    font-size: 15px;
+    color: gray;
+}
+
+.ref{
+    font-size: 12px;
+    font-style: italic;
+}
